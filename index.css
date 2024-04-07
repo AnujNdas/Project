@@ -114,7 +114,7 @@ section{
     width: 90%;
     height: 65vh;
     margin-top: 30px;
-    background: url('images/scooty.jpg');
+    background: url('.images/scooty.jpg');
     background-size: cover;
     padding-top: 70px;
     margin-left: 70px;
